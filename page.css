@@ -6,10 +6,10 @@
 }
 body
 {
-    background-color: rgb(203, 53, 78);
     background-image: url(back.jpg);
     background-position: center;
     background-size: cover;
+    background-color: blueviolet;
 }
 .form-box
 {
@@ -59,8 +59,9 @@ h1
     background-color: transparent;
     outline: none;
     border-bottom: 2px solid white;
-    color: white;
+    color: black;
     font-size: 16px;
+    background-color: aqua;
 }
 .form-box input[type="submit"]
 {
@@ -68,10 +69,10 @@ h1
     outline: none;
     height: 40px;
     background-color: yellow;
-    font-size: 18px;22
+    font-size: 18px;
     font-weight: bold;
 }
-.form-box a
+.form-box  a
 {
     color: white;
     text-decoration: none;
